@@ -1,9 +1,11 @@
 @import url("assets/styles/header.css");
+@import url("assets/styles/about.css");
 
 :root {
     --fonte-principal: "Inter";
     --branco: #FFFFFF;
     --cinza-escuro: #3A404E;
+    --preto: #101828;
     --vermelho: #8E2424;
     --cinza-claro: #667085;
 }

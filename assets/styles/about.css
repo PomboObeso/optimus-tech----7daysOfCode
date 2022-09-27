@@ -1,0 +1,23 @@
+.about {
+    text-align: center;
+    margin: 10em 20em;
+}
+
+.about__titulo{
+    color: var(--vermelho);
+    font-weight: 600;
+    margin-bottom: 1.5em;
+}
+
+.about__subtitulo{
+    color: var(--preto);
+    font-size: 48px;
+    font-weight: 600;
+    margin-bottom: 1em;
+}
+
+.about__descricao{
+    color: var(--cinza-claro);
+    font-size: 20px;
+    margin: 0 2em;
+}

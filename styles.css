@@ -3,6 +3,9 @@
 :root {
     --fonte-principal: "Inter";
     --branco: #FFFFFF;
+    --cinza-escuro: #3A404E;
+    --vermelho: #8E2424;
+    --cinza-claro: #667085;
 }
 
 body {

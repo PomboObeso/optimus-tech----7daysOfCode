@@ -1,9 +1,11 @@
 @import url("assets/styles/header.css");
 @import url("assets/styles/about.css");
 @import url("assets/styles/metricas.css");
+@import url("assets/styles/vagas.css");
 
 :root {
     --fonte-principal: "Inter";
+    --cinza-background: #F9F4F4;
     --branco: #FFFFFF;
     --cinza-escuro: #3A404E;
     --preto: #101828;

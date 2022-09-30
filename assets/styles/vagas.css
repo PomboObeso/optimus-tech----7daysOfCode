@@ -1,5 +1,5 @@
 .vagas {
-    margin: 5em 0;
+    margin: 5em 4em;
 }
 .vagas__container--cabecalho{
     text-align: center;
@@ -30,6 +30,43 @@
 }
 .vagas__container--img{
     display: block;
-    width: 85%;
-    margin: 3em auto;
+    width: 100%;
+    margin: 3em 0;
 }
+
+.vagas__container--ofertas{
+    margin: 4em 12em
+}
+
+.area__vagas {
+    color: var(--preto);
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 4em;
+}
+
+.vaga{
+    margin-left: 1.5em;    
+    margin-bottom: 3em;
+}
+.titulo__vaga{
+    display: block;
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--preto);
+    margin-bottom: 2em;
+}
+
+.informacoes__vaga{
+    margin-bottom: 4em;
+}
+
+.informacoes__vaga span{
+    display: inline-block;
+    font-weight: 500;
+    color: var(--cinza-claro);
+    margin-right: 1.5em;
+    margin-bottom: 1em;
+}
+
+

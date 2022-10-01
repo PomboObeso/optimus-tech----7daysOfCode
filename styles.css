@@ -2,10 +2,12 @@
 @import url("assets/styles/about.css");
 @import url("assets/styles/metricas.css");
 @import url("assets/styles/vagas.css");
+@import url("assets/styles/depoimentos.css");
 
 :root {
     --fonte-principal: "Inter";
     --cinza-background: #F9F4F4;
+    --background-depoimento: #FDF8F8;
     --branco: #FFFFFF;
     --cinza-escuro: #3A404E;
     --preto: #101828;

@@ -28,6 +28,10 @@
     margin-right: 1.5em;
 }
 
+.ativo {
+    color: var(--cinza-escuro);
+}
+
 .cabecalho__login--cadastrar {
     color: var(--branco);
     font-weight: 500;

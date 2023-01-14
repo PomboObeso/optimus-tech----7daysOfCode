@@ -10,6 +10,11 @@
     align-items: center;
 }
 
+.container__botoes{
+    display: flex;
+    align-items: center;
+}
+
 .cabecalho__lista{
     display: flex;
     margin-right: 28em;
